@@ -1,0 +1,7 @@
+chainlit==1.0.400
+langchain-openai==0.0.9
+langchain-core==0.1.18
+python-dotenv==1.0.1
+SQLAlchemy==2.0.25
+pyodbc==5.0.1
+reportlab==4.0.0
